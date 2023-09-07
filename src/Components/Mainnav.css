@@ -1,0 +1,17 @@
+.my-navbar{
+    height: 100%;
+    margin: 15px  15px 15px  15px;
+    color: rgb(29, 26, 26);
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+  }
+  .active {
+    border-radius: 10px;
+    width:auto;
+    height: 100%;
+    align-items: center;
+    font-weight: 800;
+    display: flex;
+    background-color: #aeefb1;
+  }  
